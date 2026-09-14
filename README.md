@@ -42,7 +42,7 @@ Cada carpeta `labN-...` contiene:
 - **capturas/** → evidencia visual del prototipo (pantallas de la app, editor de la herramienta usada, etc.).
 - Un README propio del laboratorio con el resumen y el enlace al prototipo, cuando aplique.
 
----
+-----
 
 ## Laboratorio 1 — Comparativa de desarrollo de aplicación sin código
 
