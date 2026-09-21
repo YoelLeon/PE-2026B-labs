@@ -17,7 +17,7 @@ Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escue
 | # | Laboratorio | Herramienta | Informe | Estado |
 |---|-------------|-------------|---------|--------|
 | 1 | [Comparativa de desarrollo de aplicación sin código](./lab1-matricula-laboratorios) | Adalo | [PDF](./lab1-matricula-laboratorios/informe/Laboratorio_Plataformas_Emergentes.pdf) | ✅ Entregado |
-| 2 | *(pendiente)* | — | — | 🔲 Pendiente |
+| 2 | [Desarrollo Rapido de Aplicaciones Moviles](./LAB02-Plataformas_Emergentes) | Adalo | — | 🔲 Pendiente |
 | 3 | [Desarrollo de aplicaciones móviles web ](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web) |  | [PDF](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web/PE_LAB_03%20-%20Carrasco_Condori_Yana.docx.pdf) | ✅ Entregado |
 
 ---
