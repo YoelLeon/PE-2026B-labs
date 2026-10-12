@@ -19,7 +19,7 @@ Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escue
 | 1 | [Comparativa de desarrollo de aplicación sin código](./lab1-matricula-laboratorios) | Adalo | [PDF](./lab1-matricula-laboratorios/informe/Laboratorio_Plataformas_Emergentes.pdf) | ✅ Entregado |
 | 2 | [Desarrollo Rapido de Aplicaciones Moviles](./LAB02-Plataformas_Emergentes) | Adalo | [PDF](./LAB02-Plataformas_Emergentes/PE_LAB_02%20-%20Carrasco_Condori_Yana..pdf) | ✅ Entregado | 
 | 3 | [Desarrollo de aplicaciones móviles web](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web) |  | [PDF](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web/PE_LAB_03%20-%20Carrasco_Condori_Yana.docx.pdf) | ✅ Entregado |
-| 4 | [Framework multiplataforma: MistiVerde](./LAB04-Plataformas_Emergentes/misti_verde) | Flutter | [DOCX](./LAB04-Plataformas_Emergentes/Informe/Informe_Lab04_MistiVerde.docx) | ✅ Entregado |
+| 4 | [Framework multiplataforma: MistiVerde](./LAB04-Plataformas_Emergentes/misti_verde) | Flutter | [PDF](./LAB04-Plataformas_Emergentes/Informe/PE_LAB_04%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
 
 ---
 
@@ -37,12 +37,12 @@ PE-2026B-labs/
 ├── LAB03_Desarrollo de aplicaciones móviles web/
 └── LAB04-Plataformas_Emergentes/
     ├── Informe/
-    │   └── Informe_Lab04_MistiVerde.docx
+    │   └── PE_LAB_04 - Carrasco_Condori_Yana.pdf
     └── misti_verde/                   ← proyecto Flutter (lib/main.dart)
 ```
 
 Cada carpeta de laboratorio contiene:
-- **informe/** → el documento entregado para ese laboratorio.
+- **informe/** → el PDF entregado para ese laboratorio.
 - **capturas/** → evidencia visual del prototipo (pantallas de la app, editor de la herramienta usada, etc.), cuando aplique.
 - Un README propio del laboratorio con el resumen y el enlace al prototipo, cuando aplique.
 
@@ -78,7 +78,7 @@ Cada carpeta de laboratorio contiene:
 
 **Código fuente:** [`LAB04-Plataformas_Emergentes/misti_verde`](./LAB04-Plataformas_Emergentes/misti_verde) (todo el código está en `lib/main.dart`).
 
-**Informe completo:** [`LAB04-Plataformas_Emergentes/Informe/Informe_Lab04_MistiVerde.docx`](./LAB04-Plataformas_Emergentes/Informe/Informe_Lab04_MistiVerde.docx)
+**Informe completo:** [`LAB04-Plataformas_Emergentes/Informe/PE_LAB_04 - Carrasco_Condori_Yana.pdf`](./LAB04-Plataformas_Emergentes/Informe/PE_LAB_04%20-%20Carrasco_Condori_Yana.pdf)
 
 **Cómo ejecutarlo:**
 
