@@ -20,6 +20,7 @@ Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escue
 | 2 | [Desarrollo Rapido de Aplicaciones Moviles](./LAB02-Plataformas_Emergentes) | Adalo | [PDF](./LAB02-Plataformas_Emergentes/PE_LAB_02%20-%20Carrasco_Condori_Yana..pdf) | ✅ Entregado | 
 | 3 | [Desarrollo de aplicaciones móviles web](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web) |  | [PDF](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web/PE_LAB_03%20-%20Carrasco_Condori_Yana.docx.pdf) | ✅ Entregado |
 | 4 | [Framework multiplataforma: MistiVerde](./LAB04-Plataformas_Emergentes/misti_verde) | Flutter | [PDF](./LAB04-Plataformas_Emergentes/Informe/PE_LAB_04%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
+| 5 | [Aplicaciones multiplataforma: MistiVerde v6](./LAB05-Plataformas_Emergentes/misti_verde) | Flutter | [PDF](./LAB05-Plataformas_Emergentes/Informe/PE_LAB_05%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
 
 ---
 
@@ -35,10 +36,14 @@ PE-2026B-labs/
 │       └── (screenshots del prototipo en Adalo)
 ├── LAB02-Plataformas_Emergentes/
 ├── LAB03_Desarrollo de aplicaciones móviles web/
-└── LAB04-Plataformas_Emergentes/
-    ├── Informe/
-    │   └── PE_LAB_04 - Carrasco_Condori_Yana.pdf
-    └── misti_verde/                   ← proyecto Flutter (lib/main.dart)
+├── LAB04-Plataformas_Emergentes/
+│   ├── Informe/
+│   │   └── PE_LAB_04 - Carrasco_Condori_Yana.pdf
+│   └── misti_verde/                   ← proyecto Flutter (lib/main.dart)
+└── LAB05-Plataformas_Emergentes/
+    ├── Informe/                       ← informe en .docx y .pdf
+    ├── Video/                         ← video de uso
+    └── misti_verde/                   ← continuación del proyecto (v6)
 ```
 
 Cada carpeta de laboratorio contiene:
@@ -89,3 +94,27 @@ flutter run
 ```
 
 > **Nota:** es un prototipo académico. El perfil es local (sin autenticación real), los kilogramos son autodeclarados y los puntos de acopio provienen de fuentes públicas sin horarios verificados; deben confirmarse antes de ir. Las teselas del mapa requieren internet.
+
+-----
+
+## Laboratorio 5 — Aplicaciones multiplataforma: MistiVerde v6
+
+Continuación del Laboratorio 4. Sobre la misma base de código se agregaron:
+
+- **Trivia «¿En qué tacho va?»** con 5 preguntas aleatorias y mejor puntaje guardado.
+- **Logros**: 6 insignias que se desbloquean según el historial y la trivia.
+- **Tema manual** (automático, claro u oscuro) guardado en el equipo.
+- **Exportar el historial** como CSV al portapapeles.
+- **«Cómo llegar»** en el detalle de un punto de acopio (paquete `url_launcher`).
+
+**Pendiente:** GPS para puntos cercanos, horarios verificados con la Municipalidad y cuenta real con sincronización en la nube.
+
+**Código fuente:** [`LAB05-Plataformas_Emergentes/misti_verde`](./LAB05-Plataformas_Emergentes/misti_verde)
+
+**Informe:** [`PDF`](./LAB05-Plataformas_Emergentes/Informe/PE_LAB_05%20-%20Carrasco_Condori_Yana.pdf) · [`DOCX`](./LAB05-Plataformas_Emergentes/Informe/PE_LAB_05%20-%20Carrasco_Condori_Yana.docx) · [`Video de uso`](./LAB05-Plataformas_Emergentes/Video/demo_misti_verde.mp4)
+
+```bash
+cd LAB05-Plataformas_Emergentes/misti_verde
+flutter pub get
+flutter run -d chrome
+```
