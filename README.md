@@ -21,6 +21,7 @@ Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escue
 | 3 | [Desarrollo de aplicaciones móviles web](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web) |  | [PDF](./LAB03_Desarrollo%20de%20aplicaciones%20móviles%20web/PE_LAB_03%20-%20Carrasco_Condori_Yana.docx.pdf) | ✅ Entregado |
 | 4 | [Framework multiplataforma: MistiVerde](./LAB04-Plataformas_Emergentes/misti_verde) | Flutter | [PDF](./LAB04-Plataformas_Emergentes/Informe/PE_LAB_04%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
 | 5 | [Aplicaciones multiplataforma: MistiVerde v6](./LAB05-Plataformas_Emergentes/misti_verde) | Flutter | [PDF](./LAB05-Plataformas_Emergentes/Informe/PE_LAB_05%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
+| 6 | [Artículo del Proyecto](./LAB06-Plataformas_Emergentes/) | [PDF](./LAB06-Plataformas_Emergentes/Informe/PE_LAB_06%20-%20Carrasco_Condori_Yana.pdf) | ✅ Entregado |
 
 ---
 
