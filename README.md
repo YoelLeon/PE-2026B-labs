@@ -44,6 +44,9 @@ PE-2026B-labs/
     ├── Informe/                       ← informe en .docx y .pdf
     ├── Video/                         ← video de uso
     └── misti_verde/                   ← continuación del proyecto (v6)
+└── LAB06-Plataformas_Emergentes/
+    ├── Informe/                       ← informe en .pdf
+    └── misti_verde/                   ← código fuente del proyecto
 ```
 
 Cada carpeta de laboratorio contiene:
@@ -118,3 +121,12 @@ cd LAB05-Plataformas_Emergentes/misti_verde
 flutter pub get
 flutter run -d chrome
 ```
+
+## Laboratorio 6 — Artículo científico: MistiVerde
+
+Elaboración de un artículo académico en formato IEEE sobre el diseño y desarrollo de **MistiVerde**, una aplicación multiplataforma orientada a promover el reciclaje doméstico en Arequipa.
+
+Se documentaron la problemática, el análisis de requisitos, la arquitectura, la implementación, los resultados y las conclusiones del proyecto.
+
+**Artículo e informe:** [Ver Laboratorio 6](./LAB06_Plataformas_Emergentes)
+
